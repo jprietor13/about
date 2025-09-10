@@ -6,7 +6,7 @@
 
 ## 🚀 Sobre mí  
 - 🔭 Actualmente trabajo en **Flipo**, desarrollando nuevas funcionalidades en frontend, backend y servicios en la nube.  
-- 🛠️ Experiencia con **Ecommerce, logistica, edicación**, Usando Tech's front-back y arquitecturas modernas en la web.  
+- 🛠️ Experiencia con **Ecommerce, logistica, educación**, Usando Tech's front-back y arquitecturas modernas en la web.  
 - 🌱 Siempre aprendiendo sobre **arquitecturas escalables y buenas prácticas (Clean Code)**.  
 - 🎯 Objetivo: Crear software que no solo funcione, sino que también sea **limpio, mantenible y escalable**.  
 
